@@ -1,4 +1,6 @@
-*.class
+bın
+*.jar
+!lib/*
 
 # Package Files #
 *.jar
