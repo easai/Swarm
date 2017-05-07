@@ -1,6 +1,10 @@
-bın
+.*~
+.class
+bin
+
 *.jar
 !lib/*
+
 
 # Package Files #
 *.jar
